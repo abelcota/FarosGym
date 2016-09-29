@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/inicio"
+            android:checked="false"
+            android:icon="@drawable/ic_action_home"
+            android:title="Inicio" />
+
+        <item
+            android:id="@+id/usuarios"
+            android:checked="false"
+            android:icon="@drawable/ic_clientes"
+            android:title="Usuarios" />
+        <item
+            android:id="@+id/actividad"
+            android:checked="false"
+            android:icon="@drawable/ic_activity"
+            android:title="Actividad" />
+
+        <item
+            android:id="@+id/perfil"
+            android:checked="false"
+            android:icon="@drawable/ic_favorite_black_24dp"
+            android:title="Perfil" />
+    </group>
+</menu>

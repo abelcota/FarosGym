@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Faros Gym App</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Usuario</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="action_sign_in_short">Registrarse</string>
+    <string name="error_invalid_email">El usuario es invalido</string>
+    <string name="error_invalid_password">La contraseña es muy debil</string>
+    <string name="error_incorrect_password">Contraseña incorrecta</string>
+    <string name="error_field_required">Este campo es requerido</string>
+    <string name="permission_rationale">"Permisos en contactos es requerido para completar el registro"
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+    <string name="openDrawer">Abrir</string>
+    <string name="closeDrawer">Cerrar</string>
+</resources>
